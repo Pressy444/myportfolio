@@ -369,12 +369,15 @@ span {
     height: 5rem;
     background: var(--text-color);
     border-radius: 50%;
+    
 }
 
 .portfolio-layer a i {
     font-size: 2rem;
     color: var(--second-bg-color);
+   
 }
+
 
 .contact h2 {
     margin-bottom: 3rem;
